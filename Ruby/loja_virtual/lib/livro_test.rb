@@ -1,7 +1,7 @@
 # coding: utf-8
 # Arquivo simples de teste para seguir exemplos do livro
 
-require File.expand_path ('lib/loja_virtual')
+require File.expand_path('lib/loja_virtual')
 
 # Instanciando o objeto biblioteca
 biblioteca = Biblioteca.new 
